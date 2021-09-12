@@ -1,0 +1,12 @@
+                 
+VERSION,18.2.0.3,                                                                             
+NAME,LanguageTranslation
+
+TRANSFERFILE,Unzip.bat, %AppRoot%WebServer\Unzip.bat
+TRANSFERFILE,LangWebServerText.zip, %AppRoot%WebServer\wwwroot\EGateway\Handlers\Text\LangWebServerText.zip
+
+EXECNOWAIT,%AppRoot%WebServer\Unzip.bat,,,0
+
+PAUSE,10000
+REBOOT,
+
