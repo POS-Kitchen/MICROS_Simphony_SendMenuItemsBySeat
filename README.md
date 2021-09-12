@@ -1,5 +1,5 @@
 ORACLE Hospitality Simphony  
-# Recall Items by SEAT and print them during Rush Order on Kitchen Printer, KDS are not Supported.
+# Recall Items by SEAT and print them during Rush Order on Kitchen Printer
   
 This ISL Script is designed as a workaround for the course function.  
 Enables to print the MenuItems ordered by seat to print on a order device.  
@@ -10,6 +10,7 @@ The Touch Edit Seat view can be used before submitting the order.
 Hardware  
 Windows 10 or higher based workstations  
 Any other workstation running i.e. Linux, Windows CE, iOS or Android are not supported.  
+KDS are not Supported.  
 
 ## Software version
 Simphony version 2.9 or higher
