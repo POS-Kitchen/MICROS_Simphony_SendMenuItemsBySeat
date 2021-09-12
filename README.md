@@ -1,5 +1,5 @@
 ORACLE Hospitality Simphony  
-# Recall MenuItems by SEAT and print during Rush Order on OrderDevice
+# Recall MenuItems by SEAT and print Rush Order on OrderDevice
   
 This ISL Script is designed as a workaround for the course function.  
 Enables to print the MenuItems ordered by seat to print on a order device.  
